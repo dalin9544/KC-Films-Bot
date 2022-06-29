@@ -50,19 +50,19 @@ Mʏ ɴᴀᴍᴇ ɪꜱ <a href=https://t.me/{}>{}</a>, I ᴀᴍ ᴊᴜsᴛ ᴀɴ 
 - This is an open source project. 
 
 <b>╔══ 𝘑𝘰𝘪𝘯 ★ 𝘚𝘩𝘢𝘳𝘦 ★ 𝘚𝘶𝘱𝘱𝘰𝘳𝘵 ══╗
-♻️ ᴊᴏɪɴ :- <a href=https://t.me/+7AyTKA_SqdsyNWNl><b>⚜️ Backup Channel ⚜️</b></a>
-♻️ ᴊᴏɪɴ :- <a href=https://t.me/KC_Films><b>🔰 Main Group 🔰</b></a>
-♻️ ᴊᴏɪɴ :- <a href=https://t.me/KC_Filmz><b>🧲 Backup Group 🧲</b></a>
+♻️ ᴊᴏɪɴ :- <a href=https://t.me/+GH30CVjU521iZWE1><b>💠 Channel 💠</b></a>
+♻️ ᴊᴏɪɴ :- <a href=https://t.me/Hd_moviesmalyalam><b>🔰 Main Group 🔰</b></a>
+♻️ ᴊᴏɪɴ :- <a href=https://t.me/MoVieeBazzar><b>🧲 Main Channel🧲</b></a>
 ╚══ 𝘑𝘰𝘪𝘯 ★ 𝘚𝘩𝘢𝘳𝘦 ★ 𝘚𝘶𝘱𝘱𝘰𝘳𝘵 ══╝</b>
 
-<b>💘 Team ➜ <a href=https://t.me/KCFilmss>💫 KC Filmss 💫</a>\n✯ ━━━━━ ✧ ━━━━━ ✯</b>\n"""
+<b>💘 Devoloper ➜ <a href=https://t.me/NJaNu_yir>💫 Njan Uyir💫</a>\n✯ ━━━━━ ✧ ━━━━━ ✯</b>\n"""
 
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
-- Filter is the feature were users can set automated replies for a particular keyword and EvaMaria will respond whenever a keyword is found the message
+- Filter is the feature were users can set automated replies for a particular keyword and Pooja will respond whenever a keyword is found the message
 
 <b>NOTE:</b>
-1. KC Eva Bot should have admin privillage.
+1. Pooja should have admin privillage.
 2. only admins can add filters in a chat.
 3. alert buttons have a limit of 64 characters.
 
@@ -78,11 +78,11 @@ Mʏ ɴᴀᴍᴇ ɪꜱ <a href=https://t.me/{}>{}</a>, I ᴀᴍ ᴊᴜsᴛ ᴀɴ 
 
 <b>NOTE:</b>
 1. Telegram will not allows you to send buttons without any content, so content is mandatory.
-2. KC Eva Bot supports buttons with any telegram media type.
+2. Pooja supports buttons with any telegram media type.
 3. Buttons should be properly parsed as markdown format
 
 <b>URL buttons:</b>
-<code>[Button Text](buttonurl:https://t.me/KCFilmss)</code>
+<code>[Button Text](buttonurl:https://t.me/Hd_moviesmalyalam)</code>
 
 <b>Alert buttons:</b>
 <code>[Button Text](buttonalert:This is an alert message)</code>"""
