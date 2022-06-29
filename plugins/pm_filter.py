@@ -395,7 +395,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                         ]
                     )
                 )
-                await query.answer('Check "KC || File Channel" For Your File',show_alert=True)
+                await query.answer('Check "MWM || File Channel" For Your File',show_alert=True)
                 await asyncio.sleep(300)
                 await msg1.delete()            
                 await ms.delete()
@@ -706,14 +706,14 @@ async def auto_filter(client, msg, spoll=False):
              InlineKeyboardButton(text="NEXT 🡺", callback_data=f"next_{req}_{key}_{offset}")]   
         )
         btn.insert(0,
-            [InlineKeyboardButton(text="🔶 KC || Files Channel 🔶",url="https://t.me/+PKaP3oBEgTEyZjM1")]
+            [InlineKeyboardButton(text="🔶 MWM || Files Channel 🔶",url="https://t.me/+GH30CVjU521iZWE1")]
         )
     else:
         btn.append(
             [InlineKeyboardButton(text="🗓 1/1", callback_data="pages")]
         )
         btn.insert(0,
-            [InlineKeyboardButton(text="🔶 KC || File Channel 🔶",url="https://t.me/+PKaP3oBEgTEyZjM1")]
+            [InlineKeyboardButton(text="🔶 MWM || File Channel 🔶",url="https://t.me/+GH30CVjU521iZWE1")]
         )
     imdb = await get_poster(search, file=(files[0]).file_name) if settings["imdb"] else None
     TEMPLATE = settings['template']
