@@ -23,14 +23,16 @@ async def start(client, message):
     if message.chat.type in ['group', 'supergroup']:
         buttons = [
             [
-                InlineKeyboardButton('ℹ️ Help', url=f"https://t.me/{temp.U_NAME}?start=help")
+                InlineKeyboardButton('ℹ️ Help ℹ️', url=f"https://t.me/{temp.U_NAME}?start=help")
             ],
             [
-                InlineKeyboardButton('🔶 KC || File Channel 🔶', url=f"https://t.me/+ZtS8TtYNgI9jMTA1")
+                InlineKeyboardButton('🔶 MWM || File Channel 🔶', url=f"https://t.me/+Zhttps:/https://t.me/+GH30CVjU521iZWE1")
+/t.me/+ZtS8TtYNgI9jMTA1")
+tS8TtYNgI9jMTA1")
             ],
             [
-                InlineKeyboardButton('⚜️ Backup Channel ⚜️', url="https://t.me/+7AyTKA_SqdsyNWNl"),
-                InlineKeyboardButton('🧲 Backup Group 🧲', url="https://t.me/KC_Filmz")
+                InlineKeyboardButton('⚜️ Channel ⚜️', url="https://t.me/MWMFilms"),
+                InlineKeyboardButton('🧲 Group 🧲', url="https://t.me/MWM_Films")
             ],
             ]
         reply_markup = InlineKeyboardMarkup(buttons)
@@ -245,7 +247,7 @@ async def start(client, message):
         file_id=file_id,
         caption=f_caption,
         protect_content=True if pre == 'filep' else False,
-        reply_markup=InlineKeyboardMarkup([[ InlineKeyboardButton('⚜️ Backup Channel ⚜️', url='https://t.me/+7AyTKA_SqdsyNWNl') ]])
+        reply_markup=InlineKeyboardMarkup([[ InlineKeyboardButton('⚜️ Channel ⚜️', url='https://t.me/MWMFilms') ]])
         )
 @Client.on_message((filters.command(["report"]) | filters.regex("@admins") | filters.regex("@admin")) & filters.group)
 async def report(bot, message):
@@ -281,7 +283,7 @@ async def bot(bot, message):
         InlineKeyboardButton("ᴀᴠᴀɪʟᴀʙʟᴇ ᴄᴏᴍᴍᴀɴᴅꜱ", callback_data="commands"),
         InlineKeyboardButton("ᴇɴqᴜɪʀy", callback_data="enqury")
         ],[
-        InlineKeyboardButton("🔰 Main Group 🔰", url='https://t.me/KC_Films')
+        InlineKeyboardButton("🔰 Main Group 🔰", url='https://t.me/MWM_Films')
     ]]
     reply_markup = InlineKeyboardMarkup(buttons)
     await message.reply_chat_action("typing")
@@ -296,14 +298,14 @@ async def bot(bot, message):
 @Client.on_message(filters.command("update"))
 async def update(bot, message):
     buttons = [[
-        InlineKeyboardButton("⚡️ Main Channel ⚡️", url='t.me/KCFilmss')       
+        InlineKeyboardButton("⚡️ Main Channel ⚡️", url='t.me/MWMFilms')       
         ],[
-        InlineKeyboardButton("🔰 Main Group 🔰", url='t.me/KC_Films')
+        InlineKeyboardButton("🔰 Main Group 🔰", url='t.me/MWM_Films')
     ]]
     reply_markup = InlineKeyboardMarkup(buttons)
     await message.reply_chat_action("typing")
     await message.reply_photo(
-        photo="https://te.legra.ph/file/f58032b4b41f5335e0a33.jpg",
+        photo="https://telegra.ph/file/9d92467544ba14327b1d9.jpg",
         caption=script.UPDATE_CMD.format(message.from_user.mention),
         reply_markup=reply_markup,
         parse_mode="html")
@@ -311,9 +313,9 @@ async def update(bot, message):
 @Client.on_message(filters.command("cmd"))
 async def cmd(bot, message):
     buttons = [[
-        InlineKeyboardButton("⚡️ Main Channel ⚡️", url='t.me/KCFilmss')       
+        InlineKeyboardButton("⚡️ Main Channel ⚡️", url='t.me/MWMFilms')       
         ],[
-        InlineKeyboardButton("🔰 Main Group 🔰", url='t.me/KC_Films')
+        InlineKeyboardButton("🔰 Main Group 🔰", url='t.me/MWM_Films')
     ]]
     reply_markup = InlineKeyboardMarkup(buttons)
     await message.reply_photo(
