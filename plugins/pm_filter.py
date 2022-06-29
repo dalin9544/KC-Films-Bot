@@ -422,7 +422,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                                                        file_size='' if size is None else size,
                                                        file_caption='' if f_caption is None else f_caption)
                 buttons = [[
-                  InlineKeyboardButton('🔰 Main Group 🔰', url='https://t.me/KC_Films')
+                  InlineKeyboardButton('🔰 Main Group 🔰', url='https://t.me/MWM_Films')
                   ]]
             except Exception as e:
                 logger.exception(e)
@@ -442,11 +442,11 @@ async def cb_handler(client: Client, query: CallbackQuery):
         buttons = [[
             InlineKeyboardButton('➕ Add Me To Your Groups ➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
         ],[
-            InlineKeyboardButton('⛑ Contact Owner', url=f'http://t.me/KCAjm')
+            InlineKeyboardButton('👑 Contact Owner 👑', url=f'http://t.me/NJaNu_yir')
             ],
         [
-            InlineKeyboardButton('ℹ️ Help', callback_data='help'),
-            InlineKeyboardButton('😊 About', callback_data='about')
+            InlineKeyboardButton('ℹ️ Help ℹ️', callback_data='help'),
+            InlineKeyboardButton('😊 About 😊', callback_data='about')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await query.message.edit_text(        
