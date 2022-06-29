@@ -27,8 +27,8 @@ async def start(client, message):
             ],
             [
                 InlineKeyboardButton('🔶 MWM || File Channel 🔶', url=f"https://t.me/+Zhttps:/https://t.me/+GH30CVjU521iZWE1")
-/t.me/+ZtS8TtYNgI9jMTA1")
-tS8TtYNgI9jMTA1")
+
+
             ],
             [
                 InlineKeyboardButton('⚜️ Channel ⚜️', url="https://t.me/MWMFilms"),
