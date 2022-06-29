@@ -50,7 +50,7 @@ Mʏ ɴᴀᴍᴇ ɪꜱ <a href=https://t.me/{}>{}</a>, I ᴀᴍ ᴊᴜsᴛ ᴀɴ 
 - This is an open source project. 
 
 <b>╔══ 𝘑𝘰𝘪𝘯 ★ 𝘚𝘩𝘢𝘳𝘦 ★ 𝘚𝘶𝘱𝘱𝘰𝘳𝘵 ══╗
-♻️ ᴊᴏɪɴ :- <a href=https://t.me/+GH30CVjU521iZWE1><b>💠 Channel 💠</b></a>
+♻️ ᴊᴏɪɴ :- <a href=https://t.me/+GH30CVjU521iZWE1><b>💠 Files Channel 💠</b></a>
 ♻️ ᴊᴏɪɴ :- <a href=https://t.me/Hd_moviesmalyalam><b>🔰 Main Group 🔰</b></a>
 ♻️ ᴊᴏɪɴ :- <a href=https://t.me/MoVieeBazzar><b>🧲 Main Channel🧲</b></a>
 ╚══ 𝘑𝘰𝘪𝘯 ★ 𝘚𝘩𝘢𝘳𝘦 ★ 𝘚𝘶𝘱𝘱𝘰𝘳𝘵 ══╝</b>
